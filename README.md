@@ -1,4 +1,4 @@
-# learning
+# Learning
 Dunning & Kruger
 1. Peak of Mt. Stupid   : Đỉnh cao của ngu ngốc
 2. Valley of Despair    : Thung lũng của sự thất vọng
